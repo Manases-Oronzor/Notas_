@@ -14,6 +14,6 @@ Notitas del Hackmex
 | Hydra         | Ataques de fuerza bruta a login   | `hydra -l user -P pass <IP> ssh`| Linux             |
 | Nikto         | Escaneo de vulnerabilidades web   | `nikto -h <URL>`                 | Linux             |
 | Recon-ng      | Marco de reconocimiento web       | `recon-ng`                       | Linux             |
-| Video         | de xd de youtube                  | [Ver video 🎮]()   |  |
+| Video         | de xd de youtube                  | [Ver video 🎮](https://github.com/Manases-Oronzor/Notas_/blob/main/cat-eat.gif)   |  |
 
 ### Hola que hace
